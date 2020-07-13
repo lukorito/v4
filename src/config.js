@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Kelvin Kitika | Software Engineer',
   siteDescription:
     'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Kelvin Kitika Lukorito, Kelvin, Kitika, Lukorito, _kitika, software engineer, front-end engineer, web developer, javascript, nairobi, kenya',
+  siteUrl: 'https://kelvinkitika.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: 'UA-61304819-2',
+  googleVerification: 'pgZ61nHVvWGAPGctsYHz_ilccGbTuIYGKxmM8ZSt4cg',
+  name: 'Kelvin Kitika',
+  location: 'Nairobi, Kenya',
+  email: 'kelvin.kitika@gmail.com',
+  github: 'https://github.com/lukorito',
+  twitterHandle: '@_kitika',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/lukorito',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/kelvin-kitika-lukorito-85065183/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://codepen.io/kitika',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/kitika.jpg',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/_kitika',
     },
   ],
 
@@ -58,9 +58,9 @@ module.exports = {
   navHeight: 100,
 
   colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
-    darkNavy: '#020c1b',
+    green: '#F2CB05',
+    navy: '#090B0D',
+    darkNavy: '#090B0D',
   },
 
   srConfig: (delay = 200) => ({
