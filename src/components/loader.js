@@ -42,10 +42,9 @@ const Loader = ({ finishLoading }) => {
     const loader = anime.timeline({
       complete: () => finishLoading(),
     });
-
     loader
       .add({
-        targets: '#logo path',
+        targets: '#logo circle',
         delay: 300,
         duration: 1500,
         easing: 'easeInOutQuart',
@@ -77,15 +76,14 @@ const Loader = ({ finishLoading }) => {
   const [isMounted, setIsMounted] = useState(false);
 
   useEffect(() => {
-    const timeout = setTimeout(() => setIsMounted(true), 10);
+    const timeout = setTimeout(() => setIsMounted(true), 1000);
     animate();
     return () => clearTimeout(timeout);
   }, []);
 
   return (
     <StyledContainer className="loader">
-      <Helmet bodyAttributes={{ class: `hidden` }} />
-
+      <Helmet bodyAttributes={{ class: 'hidden' }} />
       <StyledLogo isMounted={isMounted}>
         <IconLoader />
       </StyledLogo>
