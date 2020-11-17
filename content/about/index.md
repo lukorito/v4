@@ -5,15 +5,17 @@ skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - React
-  - Vue
+  - Typescript
   - Node.js
-  - WordPress
+  - Python
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hi there, I am Kelvin, a software developer based in Nairobi, Kenya.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+Getting into software development was one of the best decisions I have made in my life. I have been developing web applications for the last 2 years. I am a great team player, have extreme attention to detail and efficient workflow.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I enjoy software development and I strive to improve myself through constant learning and experimenting with new technology.
+
+Currently, I prefer working on front-end projects especially React Js to build, accessible, perfomant, and pixel-perfect applications.
 
 Here are a few technologies I've been working with recently:

@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Kelvin Kitika | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'My name is Kelvin Kitika. I am a software engineer from Nairobi Kenya. I enjoy building web applications with Javascript, React, Redux, and sometimes Python',
   siteKeywords:
     'Kelvin Kitika Lukorito, Kelvin, Kitika, Lukorito, _kitika, software engineer, front-end engineer, web developer, javascript, nairobi, kenya',
   siteUrl: 'https://kelvinkitika.com',

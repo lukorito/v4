@@ -31,8 +31,8 @@ const StyledLogo = styled.div`
     margin: 0 auto;
     fill: none;
     user-select: none;
-    #B {
-      opacity: 0;
+    #circle {
+      opacity: 1;
     }
   }
 `;
@@ -44,22 +44,16 @@ const Loader = ({ finishLoading }) => {
     });
     loader
       .add({
-        targets: '#logo circle',
-        delay: 300,
-        duration: 1500,
-        easing: 'easeInOutQuart',
+        targets: '#logo #circle',
         strokeDashoffset: [anime.setDashoffset, 0],
-      })
-      .add({
-        targets: '#logo #B',
-        duration: 700,
-        easing: 'easeInOutQuart',
-        opacity: 1,
+        duration: 1500,
+        delay: 1000,
+        easing: 'easeInOutSine',
       })
       .add({
         targets: '#logo',
-        delay: 500,
-        duration: 300,
+        delay: 200,
+        duration: 400,
         easing: 'easeInOutQuart',
         opacity: 0,
         scale: 0.1,
