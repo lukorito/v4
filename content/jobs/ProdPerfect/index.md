@@ -1,5 +1,5 @@
 ---
-date: '2020-12-21'
+date: '2020-06-21'
 title: 'QA Software Engineer'
 company: 'ProdPerfect'
 location: 'New York (Remote)'
