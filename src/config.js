@@ -6,7 +6,7 @@ module.exports = {
     'Kelvin Kitika Lukorito, Kelvin, Kitika, Lukorito, _kitika, software engineer, front-end engineer, web developer, javascript, nairobi, kenya',
   siteUrl: 'https://kelvinkitika.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-61304819-2',
+  googleAnalyticsID: 'UA-179026461-1',
   googleVerification: 'pgZ61nHVvWGAPGctsYHz_ilccGbTuIYGKxmM8ZSt4cg',
   name: 'Kelvin Kitika',
   location: 'Nairobi, Kenya',
